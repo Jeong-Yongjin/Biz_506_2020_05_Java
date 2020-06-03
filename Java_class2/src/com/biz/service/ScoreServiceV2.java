@@ -28,6 +28,7 @@ public class ScoreServiceV2 {
 			scoreList[i].setStAvg(scoreList[i].getStSum() / 3);
 
 		}
+		
 
 	
 	}
